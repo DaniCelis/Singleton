@@ -6,3 +6,4 @@ La clase que es Singleton define una instancia para que los clientes puedan acce
 
 Daniela Celis 20162020452 
 Silvia Jiménez 20142020092
+Sebastian Pineda 20162020060
