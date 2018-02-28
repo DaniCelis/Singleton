@@ -4,3 +4,5 @@ Desarrollo patrón de diseno singleton Singleton, mecanismo para limitar el núm
 
 La clase que es Singleton define una instancia para que los clientes puedan accederla. Esta instancia es accedida mediante un método de clase. Los clientes (quienes quieren acceder a la clase Singleton) acceden a la única instancia mediante un método llamado getInstance().
 
+Daniela Celis 20162020452 
+Silvia Jiménez 20142020092
